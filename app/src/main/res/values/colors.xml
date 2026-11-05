@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_navy">#17344F</color>
+    <color name="primary_dark">#0F2437</color>
+    <color name="primary_light">#234C6F</color>
+    <color name="teal_primary">#32798B</color>
+    <color name="accent_gold">#C6A052</color>
+    <color name="gold_dark">#A07B32</color>
+    <color name="cream_parchment">#F7F4EB</color>
+    <color name="whatsapp_green">#25D366</color>
+    <color name="whatsapp_dark">#128C7E</color>
+    <color name="background_slate">#F4F6F8</color>
+</resources>
